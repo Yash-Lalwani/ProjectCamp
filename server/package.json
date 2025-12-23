@@ -1,0 +1,17 @@
+{
+  "name": "projectcamp",
+  "version": "1.0.0",
+  "description": "a project management application for beginners",
+  "keywords": [
+    "API",
+    "creation"
+  ],
+  "license": "ISC",
+  "author": "Yash Lalwani",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  }
+}
